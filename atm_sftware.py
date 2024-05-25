@@ -66,6 +66,10 @@ class Atm:
 obj=Atm()
 obj.check_balance()
 
+#Self is current object of that class
+#Self is used because within a class one method or function can not access or communicate other methods
+# so to access other functions self is used
+
 
 
 
